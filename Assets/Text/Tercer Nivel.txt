@@ -1,0 +1,30 @@
+Yure: Pues yo estoy lista para hacer la tarta.
+Yera: Yo también, ya tenemos todo listo. Oh, espera un momento Yure.
+
+Yera: Oh, es Guaci. Nos ha enviado la receta que usa su madre para la tarta.
+Yure: Qué palo... ¿Es la misma receta que la de mi abuela? ¿O es distinta?
+Yera: Si fuera la misma el queque tendría que saber igual. Vamos a comprobar si las cantidades son proporcionales.
+Yure: ¡Ah, si la proporción entre ingredientes es la misma! Veamos, la primera es para 6 personas y la segunda para 12, luego las cantidades de la segunda deben de ser el doble de las de la primera. 
+Yera: Correcto. La razón entre recetas debe de ser constante para ser el mismo queque.
+Yera: Veamos, 4 huevos entre 2 da 2, doble de huevos, 3 de harina entre 1 y 1/2 da 2, doble de harina. Parece que son iguales.
+Yure: Eh, espera un momento. ¿De dónde has sacado ese 3/2?
+Yera: Fácil Yure. Teníamos 1 + 1/2 de harina. Al hacer el cálculo de esta suma nos queda algo como 2/2 + 1/2, siendo el resultado 3/2.
+Yure: Woah Yera, que listo que eres.
+Yera: Gracias Yure. ¿Nos ayudas a Yure y a mí comprobar los cálculos? ¿Crees que es la misma?
+Yure: Pero Yera, mira el resultado de la naran-.
+Yera: Para Yure, no respondas.
+Yure: Vale Yera, tampoco hace falta ponerse así.
+Yure: Vale Yera, tampoco hace falta ponerse así.
+
+Yera: Te has equivocado en algo, prueba otra vez.
+
+Yera: ¡Correcto! Ahora la pregunta definitiva. ¿Dirías que es la misma receta? ¿Es proporcional?
+Yure: ¡Sí! Has acertado, ¡estamos más cerca de cocinar la tarta!
+
+
+Yure: No puedes hacer eso.
+
+Yera: Parece que alguien va a tener que empezar el juego desde el principio...
+Yure: ¿Qué juego? ¿De qué hablas Yera?
+
+Yera: Parece que no es el resultado correcto. Prueba otra vez.

@@ -1,0 +1,17 @@
+Yera: Me estoy dando cuenta que esa fórmula sirve para cualquier conversión. Es general. Porque las personas se pueden considerar como unidades (raciones). Vamos a utilizar esta fórmula:
+Yera: Si 100 gramos de azúcar es la cantidad que cabe en una taza, en tres tazas caben... 
+Yure: En efecto. Yo lo que veo es que la pizca no necesita modificación.
+Yera: ¡La cucharadita tampoco!
+Yera: Oye Yure, vamos a ver si tenemos todos los ingredientes o si hay que comprar algo.
+Yure: Vale. Te apunto lo que tenemos.
+Yure: Ahora con los cálculos que tenemos para 10 personas vemos lo que hay que comprar.
+Yure: Ahora con los cálculos que tenemos para 10 personas vemos lo que hay que comprar.
+
+Yera: Ahora tenemos que aplicar la fórmula de la conversión y calcular la cantidad que necesitamos.
+
+Yera: ¡A comprar se ha dicho!
+
+Yera: Te has equivocado en algo, prueba otra vez.
+
+Yure: No puedes hacer eso.
+

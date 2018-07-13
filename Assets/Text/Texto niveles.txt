@@ -1,0 +1,90 @@
+Texto niveles
+Nivel 1
+
+Yera: ¿Por que no invitamos a nuestros amigos a una merienda para celebrar tu cumpleaños?
+Yure: Que buena idea. Podemos hacer un queque. Justo tengo aquí la receta de mi abuela, veamos lo que necesitamos.
+Yera: Perfecto, dime los ingredientes y yo voy viendo si los tenemos.
+Yure: Vale, necesitamos 2 huevos.
+Yera: Los tengo.
+Yure: 1 y 1/2 Tazas de Harina.
+Yera: Si, tenemos suficiente.
+Yure: 120 gramos de mantequilla.
+Yera: Sigue, yo te aviso si nos falta algo.
+Yure: 1 y 1/2 cucharaditas de polvo para hornear.
+Yera: Correcto.
+Yure: 1/2 taza de leche.
+Yera: De sobra.
+Yure: 1 Pizca de ralladura de Naranja o Limon.
+Yera: De momento tenemos todo.
+Yure: 1 taza de azúcar, espero que no quede muy dulce.
+Yera: Tu si que eres dulce pillina.
+Yure: ¡¿Qué?!
+Yera: Que tenemos el azucar.
+Yure: Bueno.... por ultimo, 1 cucharadita de esencia de vainilla, la cual es opcional.
+Yera: Pues si, tenemos todo y en cantidades exageradas, nos viene bien por si hacemos algo mal y tenemos que usar más ingredientes.
+Yure: Tenemos un pequeño problema Yera, la receta es para seis personas y nosotros somos nueve.
+Yera: Tranquila Yure, es en estos momentos cuando tenemos que hacer uso de lo aprendido en clase y emplear la proporcionalidad.
+Yure: Propor-que. Yera, ¿de qué estas hablando?
+Yera: Sigh, no esperaba nada de ti y aun asi me decepcionas. Pero tranquila Yure, te ayudaremos a entender lo que es la proporcionalidad.
+Yure: ¿AyudareMOS? Yera, solo estamos nosotros dos aquí ¡ya estas delirando!
+Yera: Tu observa.
+Yure: Me siento perdida.
+Yera: Cuando nuestro querido invitado haga click en el botón continuar, te explicare todo.
+Yure: ¿Q-qué?
+
+Nivel 2
+
+Yure: ¿Q-qué ha pasado? ¡Los ingredientes han desaparecido!
+Yera: No te preocupes, solo hemos cambiado de nivel. Los ingredientes estan a salvo.
+Yure: ¿Cómo que hemos cambiado de nivel? Otra vez delirando... Bueno ¿qué era eso que ibas a explicar de la proporcionalidad?
+Yera: Si me pongo a explicartelo todo de tirón no te vas a enterar de nada, así que usaremos la tarta para ayudarte a entenderlo todo.
+Yure: S-si tu lo dices...
+Yera: Viendo que estas dispuesta a ello viene la siguiente pregunta. TU, el que nos esta viendo a traves de la pantalla. 
+Yera: ¿Estas dispuesto a ayudarnos a hacer la tarta y así ayudar a Yure a entender la proporcionalidad? Solo hay una respuesta correcta, hohoho.
+Yure: (¿A quién esta hablando Yera? Debió de ser complicado pasar 6 años en aquella isla sin nadie a quien hablar...)
+Yera: ¡Excelente! Pues manos a la obra Yure.
+Yure: No se que ha pasado pero tengo miedo...
+Yera: Tu tranquila, no hay porque tener miedo. Piensa que el jugador es un amigo más que nos ayudara a hacer la tarta.
+Yure: V-vale... Lo primero es adaptar la receta que tenemos, de seis personas, para las nueve que seremos ¿no?
+Yera: Correcto, por ello lo primero es razonar. Si necesitamos 2 huevos para 6 personas, lo lógico seria pensar que necesitamos 1 para 3 personas ¿no? Ahora mi pregunta es ¿Cuántos necesitamos para 9 Yure?
+Yure: Hmmm... Usando la regla de 3 de toda la vida.... Si para 3 personas necesitamos 1 huevo, para 9... Necesitariamos 3 huevos! ¿No es así Yera?
+Yera: Correcto! La verdad es que me has sorprendido, veo que en clase haces algo mas que dormir.
+Yure: Hahaha, para que veas que no solo soy una cara bonita. 
+Yera: Tu, que estas al otro lado, ¿Nos ayudas?
+Yure: Modifica el valor de los ingredientes que faltan.
+
+Nivel 3
+Yure: Pues yo estoy lista para hacer la tarta.
+Yera: Yo tambien, ya tenemos todo listo. Oh, espera un momento Yure.
+
+Yera: Oh, es el guaci. Nos ha enviado la receta que usa su madre para la tarta.
+Yure: Que palo... ¿Es la misma receta que la de mi abuela? ¿O es distinta?
+Yera: Si fuera la misma el queque tendría que saber igual. Vamos a comprobar si las cantidades son proporcionales.
+Yure: ¡Ah, si la proporción entre ingredientes es la misma! Veamos, la primera es para 6 personas y la segunda para 12, luego las cantidades de la segunda deben de ser el doble de las de la primera. 
+Yera: Correcto. La razón entre recetas debe de ser constante para ser el mismo queque en todos los ingredientes y personas.
+Yera: Veamos, 4 huevos entre 2 da 2, doble de huevos, 3 de harina entre 1 y 1/2 da 2, doble de harina. Parece que son iguales.
+Yure: Eh, espera un momento. ¿De donde has sacado ese 3/2?
+Yera: Facil Yure. Teniamos de harina 1 + 1/2. Al hacer el calculo de esta suma nos queda algo como 2/2 + 1/2, siendo el resultado 3/2.
+Yure: Woah Yera, que listo que eres.
+Yera:  Gracias Yure. Y ahora tu, el que nos observa. ¿Nos ayudas a comprobar los cálculos? ¿Crees que es la misma?
+Yure: Pero Yera, mira el resultado de la -.
+Yera: PARA YURE, QUE SENTIDO TIENE QUE RESPONDAS TU.
+Yure: Vale Yera, tampoco hace falta ponerse asi.
+
+Nivel 4
+
+Yure: Woah Yera, vamos a usar la receta de mi abuela. Pinta mucho mejor
+Yera: Como veas Yure, pero que le decimos a Guaci si se entera?
+Yure: Que se va a enterar, si va a estar todo el rato hablando con la Jesi.
+Yera: Si tu lo dices... Oh, otro mensaje ¿Quien sera?
+
+Yera: Hmm... Es el Ayo, dice que Yann tambien se quiere venir.
+Yure: Jope, que palo otra vez a calcular los ingredientes para 10 personas.
+Yera: Tranquila Yure, tengo una idea. Vamos a calcular los ingredientes por persona.
+Yure: Eh! Eso era la razon ingrediente/persona, no?
+Yera: Correcto Yure. Estamos reduciendo a la unidad. Si multiplicas cada razon ingrediente/persona por el numero de personas...
+Yure: Ya tendriamos la cantidad adecuada de cada ingrediente!
+Yera: Perfecto. La razon huevos/persona son 2/6.
+Yure: Hmm... Pero como ahora somos 10 necesitamos 20/6, es decir, 3 huevos y un tercio de huevo.
+Yera: Decirlo asi es raro, pero podemos batir un huevo y medir un tercio de el.
+Yure: ¿Nos ayudas a las razones ingredientes/persona y a calcular la cantidad total de los ingredientes?

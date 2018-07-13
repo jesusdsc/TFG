@@ -1,0 +1,24 @@
+Yure: Woah Yera, vamos a usar la receta de mi abuela. Pinta mucho mejor
+Yera: Como veas Yure, pero ¿qué le decimos a Guaci si se entera?
+Yure: Que se va a enterar, si va a estar todo el rato hablando con la Jesi.
+Yera: Si tú lo dices... Oh, otro mensaje ¿Quién será?
+
+Yera: Hmm... Es el Ayo, dice que Yann tambien se quiere venir.
+Yure: Jope, que palo otra vez a calcular los ingredientes para 10 personas.
+Yera: Tranquila Yure, tengo una idea. Vamos a calcular los ingredientes por persona.
+Yure: ¡Eh! Eso era la razon ingrediente/persona, ¿no?
+Yera: Correcto Yure. Estamos reduciendo a la unidad. Si multiplicas cada razón ingrediente/persona por el número de personas...
+Yure: ¡Ya tendriamos la cantidad adecuada de cada ingrediente!
+Yera: Perfecto. La razon huevos/persona son 2/6.
+Yure: Hmm... Pero como ahora somos 10 necesitamos 20/6, es decir, 3 huevos y 1/3 de huevo.
+Yera: Decirlo asi es raro, pero podemos batir un huevo y medir un tercio de él.
+Yure: ¿Nos ayudas con las razones ingrediente/persona y a calcular la cantidad total de los ingredientes?
+Yure: ¿Nos ayudas con las razones ingrediente/persona y a calcular la cantidad total de los ingredientes?
+
+Yera: Te has equivocado en algo, prueba otra vez.
+
+Yera: Ya queda poco. Espero que nadie más venga de imprevisto.
+Yure: No seas asi Yera. ¡Mientras más mejor!
+
+
+Yure: No puedes hacer eso.

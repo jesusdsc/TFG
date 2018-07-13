@@ -1,0 +1,30 @@
+Yure: ¿Q-qué ha pasado? ¡Los ingredientes han desaparecido!
+Yera: No te preocupes, solo hemos cambiado de nivel. Los ingredientes estan a salvo.
+Yure: ¿Cómo que hemos cambiado de nivel? Bueno ¿qué era eso que ibas a explicar de la proporcionalidad?
+Yera: Si me pongo a explicartelo todo de tirón no te vas a enterar de nada, así que usaremos la tarta para ayudarte a entenderlo todo.
+Yure: S-si tu lo dices...
+Yera: Viendo que estas dispuesta a ello viene la siguiente pregunta a nuestro invitado.
+Yera: ¿Estas dispuesto a ayudarnos a hacer la tarta y así ayudar a Yure a entender la proporcionalidad? Solo hay una respuesta correcta, jojojo.
+Yure: (¿A quién esta hablando Yera? Debió de ser complicado pasar 6 años en aquella isla sin nadie a quien hablar...)
+
+Yera: Jajajaja ¿te crees que tienes opciones? Hasta que no superes esta fase, no podras ni guardar ni salir del juego.(A no ser que haga alt-F4, que entonces me chafas el plan).
+Yera: Podemos seguir aqui todo el día.
+
+Yera: ¡Excelente! Pues manos a la obra Yure.
+Yure: No sé qué ha pasado pero tengo miedo...
+Yera: Yera: Tú tranquila, no hay porqué tener miedo. Piensa que el jugador es un amigo más que nos ayudará a hacer la tarta.
+Yure: V-vale... Lo primero es adaptar la receta que tenemos, de seis personas, para las nueve que seremos ¿no?
+Yera: Correcto, por ello lo primero es razonar. Si necesitamos 2 huevos para 6 personas, lo lógico sería pensar que necesitamos 1 para 3 personas ¿no? Ahora mi pregunta es ¿Cuántos necesitamos para 9 Yure?
+Yure: Hmmm... Usando la regla de 3 de toda la vida.... Si para 3 personas necesitamos 1 huevo, para 9... ¡necesitaríamos 3 huevos! ¿No es así Yera?
+Yera: ¡Correcto! La verdad es que me has sorprendido.
+Yera: ¿Nos ayudas a Yure y a mí?
+Yure: Modifica el valor de los ingredientes que faltan.
+Yure: Modifica el valor de los ingredientes que faltan.
+
+Yera: Te has equivocado en algo, prueba otra vez.
+
+Yera: ¡Correcto! Ahora que hemos calculado la cantidad de ingredientes ¡preparemos la tarta!
+
+Yure: No puedes hacer eso.
+
+
